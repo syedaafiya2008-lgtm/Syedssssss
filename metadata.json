@@ -1,0 +1,6 @@
+{
+  "name": "Startup Idea Generator",
+  "description": "AI-powered startup generator, MVP planner, validation toolkit, and scoring engine. Generate million-dollar concepts in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

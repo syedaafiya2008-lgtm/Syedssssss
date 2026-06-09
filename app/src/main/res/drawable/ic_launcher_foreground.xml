@@ -1,0 +1,64 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Bulb Aura Ambient Glow -->
+    <path
+        android:fillColor="#818CF8"
+        android:fillAlpha="0.12"
+        android:pathData="M54,18 A26,26 0 0,0 28,44 C28,57 34,67 42,72 L42,78 H66 L66,72 C74,67 80,57 80,44 A26,26 0 0,0 54,18 Z" />
+
+    <!-- Left Bulb Dome (Lavender) -->
+    <path
+        android:fillColor="#A78BFA"
+        android:pathData="M54,24 A20,20 0 0,0 34,44 C34,53 38,60 44,64 L46,70 H54 Z" />
+
+    <!-- Right Bulb Dome (Sleek Indigo) -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M54,24 V70 H62 L64,64 C70,60 74,53 74,44 A20,20 0 0,0 54,24 Z" />
+
+    <!-- Metallic Screw Thread - Thread 1 -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M46,70 H62 V73 H46 Z" />
+
+    <!-- Metallic Screw Thread - Thread 2 -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M48,73 H60 V76 H48 Z" />
+
+    <!-- Metallic Screw Thread - Base Cap -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M50,76 H58 C58,79 50,79 50,76 Z" />
+
+    <!-- Core Lightning Bolt Glow Backplane (Vibrant Orange Alpha) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:fillAlpha="0.3"
+        android:pathData="M60,29 L46,51 H55 L52,71 L66,49 H57 Z" />
+
+    <!-- Sharp Tech Lightning Bolt (Golden Yellow) -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M58,30 L44,52 H53 L50,70 L64,50 H55 Z" />
+
+    <!-- Idea Spark 1 - Left Lavender Star -->
+    <path
+        android:fillColor="#A78BFA"
+        android:pathData="M28,30 L30,34 L34,35.5 L30,37 L28,41 L26,37 L22,35.5 L26,34 Z" />
+
+    <!-- Idea Spark 2 - Right Amber Star -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M80,26 L81.5,30 L85,31.5 L81.5,33 L80,37 L78.5,33 L75,31.5 L78.5,30 Z" />
+
+    <!-- Idea Spark 3 - Right Teal Star -->
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M78,56 L79.5,60 L83,61.5 L79.5,63 L78,67 L76.5,63 L73,61.5 L76.5,60 Z" />
+
+</vector>
